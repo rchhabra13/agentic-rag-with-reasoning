@@ -96,3 +96,4 @@ The application uses a sophisticated RAG pipeline:
 - Enter API keys → Add knowledge sources → Ask questions
 - Reasoning process and answer generation displayed side-by-side
 - Sources cited for transparency and verification
+<!-- Updated: 2025-09-16 -->
