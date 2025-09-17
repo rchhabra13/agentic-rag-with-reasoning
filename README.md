@@ -97,3 +97,5 @@ The application uses a sophisticated RAG pipeline:
 - Reasoning process and answer generation displayed side-by-side
 - Sources cited for transparency and verification
 <!-- Updated: 2025-09-16 -->
+
+<!-- Updated: 2025-09-16 -->
